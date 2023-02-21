@@ -1,3 +1,11 @@
+Linkedin icon with my LinkedLn link
+Github icon with my Github Link
+H tag changed
+P tage changed
+My personal image i have added
+
+
+
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
