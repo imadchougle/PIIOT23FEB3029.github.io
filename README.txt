@@ -1,8 +1,9 @@
-Linkedin icon with my LinkedLn link
-Github icon with my Github Link
-H tag changed
-P tage changed
-My personal image i have added
+Changes Made = {
+"Linkedin icon with my LinkedLn link",
+"Github icon with my Github Link"
+"H tag changed",
+"P tage changed",
+"My personal image i have added " }
 
 
 
